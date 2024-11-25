@@ -30,7 +30,7 @@ const Certifications = () => {
           <div className="w-1/2 p-2">
             <Image
               alt="HackerRank React Basic Certificate"
-              src="/images/react-basic.png"
+              src="/images/react.png"
               width={300}
               height={500}
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
