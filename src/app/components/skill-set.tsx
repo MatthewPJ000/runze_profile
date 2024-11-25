@@ -102,7 +102,7 @@ export default function Skills(){
 			<div className="mt-12">
 				<a className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group" aria-label="View Full Resume" href="/resume/KirKalarash.pdf" target="_blank"></a>
 
-				<a className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group" aria-label="View Full Resume" href="" target="_blank">
+				<a className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group" aria-label="View Full Resume" href="/runze_full.pdf" target="_blank">
 
 					<span><span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">View Full </span>
 								<span className="whitespace-nowrap"><span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">Resume</span>
