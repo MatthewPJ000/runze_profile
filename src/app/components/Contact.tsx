@@ -34,7 +34,7 @@ export default function Contact() {
     }
 
     emailjs
-      .send('service_fo29oks', 'template_9q3763u', formData, 'eQ2PJns_77BXIoIG4')
+      .send('service_056jeph', 'template_9q3763u', formData, 'eQ2PJns_77BXIoIG4')
       .then(
         (result) => {
           setAlert({ severity: 'success', message: 'Email sent successfully!' });
