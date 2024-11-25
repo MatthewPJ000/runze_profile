@@ -52,7 +52,7 @@ export default function Navbar() {
     <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-2/5 lg:flex-col lg:justify-between lg:py-24">
       <div>
         <Image
-          src="/images/profile-1.png"
+          src="/images/New Bitmap Image.jpg"
           alt="avatar"
           width="150"
           height="150"
